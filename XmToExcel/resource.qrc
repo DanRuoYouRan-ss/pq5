@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file alias="contacts.png">../Icon/window.ico</file>
+<file alias="windows.png">../Icons/8.ico</file>
+</qresource>
+</RCC>
